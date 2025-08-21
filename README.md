@@ -95,8 +95,7 @@ expense_tracker/
 │   │   └── expense.dart
 │   ├── services/
 │   │   ├── currency_service.dart
-│   │   ├── database_service.dart
-│   │   └── sync_service.dart
+│   │   └── database_service.dart
 │   ├── utils/
 │   │   └── app_env.dart
 │   ├── view/
